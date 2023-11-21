@@ -18,6 +18,6 @@ public class CanonPrinterISP implements IPrint, IFax {
 
     @Override
     public void printSpoolDetails() {
-        System.out.println("Print spool details");
+        System.out.println("Print spool details ");
     }
 }
